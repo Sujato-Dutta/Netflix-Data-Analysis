@@ -1,5 +1,8 @@
 # NETFLIX DATA ANALYSIS
 
+## Notebook Link:
+https://github.com/Sujato-Dutta/Netflix-Data-Analysis/blob/a10a27253fe6909b1eab4dd7767785e1c030a91d/Netflix_Data_Analysis.ipynb
+
 ## Problem Statement:
 To conduct a detailed analysis of Netflix movies to answer important business questions and help future decision making.
 
