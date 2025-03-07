@@ -35,3 +35,8 @@ To conduct a detailed analysis of Netflix movies to answer important business qu
 3.	The most popular movie is Spider-Man: No Way Home and it's genres are Action, Adventure and Science Fiction.
 4.	The least popular movie is The United States vs. Billie Holiday and it's genres are Music, Drama and History.
 5.	The year 2020 got the most number of releases
+
+![Image Alt](image_url)
+![Image Alt](image_url)
+![Image Alt](image_url)
+![Image Alt](image_url)
