@@ -39,4 +39,4 @@ To conduct a detailed analysis of Netflix movies to answer important business qu
 ![Image Alt](https://github.com/Sujato-Dutta/Netflix-Data-Analysis/blob/032c693c3dfb155043cc551e1121245eb7f3211a/Netflix%201.jpg)
 ![Image Alt](https://github.com/Sujato-Dutta/Netflix-Data-Analysis/blob/6a6033c22aa13a473838c38df215c7762d6e0a62/Netflix%202.jpg)
 ![Image Alt](https://github.com/Sujato-Dutta/Netflix-Data-Analysis/blob/6824a9b65a2de7bbb07288c5bad5ae4085384e29/Netflix%203.jpg)
-![Image Alt](image_url)
+![Image Alt](https://github.com/Sujato-Dutta/Netflix-Data-Analysis/blob/f69d951bfc5f586e6622174b24a2ed9489c92d25/Netflix%204.jpg)
