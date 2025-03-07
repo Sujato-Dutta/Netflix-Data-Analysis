@@ -37,6 +37,6 @@ To conduct a detailed analysis of Netflix movies to answer important business qu
 5.	The year 2020 got the most number of releases
 
 ![Image Alt](https://github.com/Sujato-Dutta/Netflix-Data-Analysis/blob/032c693c3dfb155043cc551e1121245eb7f3211a/Netflix%201.jpg)
-![Image Alt](image_url)
+![Image Alt](https://github.com/Sujato-Dutta/Netflix-Data-Analysis/blob/6a6033c22aa13a473838c38df215c7762d6e0a62/Netflix%202.jpg)
 ![Image Alt](image_url)
 ![Image Alt](image_url)
