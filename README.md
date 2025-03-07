@@ -36,7 +36,7 @@ To conduct a detailed analysis of Netflix movies to answer important business qu
 4.	The least popular movie is The United States vs. Billie Holiday and it's genres are Music, Drama and History.
 5.	The year 2020 got the most number of releases
 
-![Image Alt](image_url)
+![Image Alt](https://github.com/Sujato-Dutta/Netflix-Data-Analysis/blob/032c693c3dfb155043cc551e1121245eb7f3211a/Netflix%201.jpg)
 ![Image Alt](image_url)
 ![Image Alt](image_url)
 ![Image Alt](image_url)
